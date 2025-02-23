@@ -1,1 +1,1 @@
-Bu Python programı, kullanıcıdan alınan değerlere göre çeşitli geometrik şekillerin alanlarını hesaplamaktadır. Şu anda kare, dikdörtgen, üçgen, daire ve yamuk gibi şekillerin alanlarını hesaplamak mümkündür.
+
